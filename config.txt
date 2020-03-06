@@ -10,3 +10,5 @@
 	c = commit
 [core]
 	editor = notepad
+
+*.class is a file containing Java bytecode (ignored with .gitignore)
