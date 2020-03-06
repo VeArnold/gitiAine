@@ -1,6 +1,5 @@
 [user]
 	email = arnold.veltmann@ut.ee
-	name = Arnold Veltmann
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
